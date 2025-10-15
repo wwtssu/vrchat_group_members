@@ -154,6 +154,7 @@ Ricardo艾姆Lu,2,#FFFFFF
 齐Pyroxene,1000,#FFFFFF
 永华莲~,1000,#FFFFFF
 Kinglanding,1000,#FFFFFF
+天国直达,1000,#FFFFFF
 焱悠至孟夏,1000,#FFFFFF
 克里斯汀娜,1000,#FFFFFF
 Lucy_800,1000,#FFFFFF
@@ -220,7 +221,7 @@ rmttjn,1000,#FFFFFF
 Sinister Gambit,1000,#FFFFFF
 是麻衣学姐啊,1000,#FFFFFF
 tomato_QAQ,1000,#FFFFFF
-月 涟 珏,1000,#FFFFFF
+鸿雪_Kōsetsu,1000,#FFFFFF
 麦子Wheat,1000,#FFFFFF
 白糖最白,1000,#FFFFFF
 Doracat 6ffb,1000,#FFFFFF
