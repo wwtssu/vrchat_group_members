@@ -85,7 +85,7 @@ shiinayu,1000,#FFFFFF
 ʚ Yun ɞ,1000,#FFFFFF
 Equinox_lycoris,1000,#FFFFFF
 黑瞳肝夜,1000,#FFFFFF
-果糖Meow~,1000,#FFFFFF
+果糖Meow,1000,#FFFFFF
 兔兔会飞哦,1000,#FFFFFF
 MaruRuqi,1000,#FFFFFF
 风吹红叶散 ab94,1000,#FFFFFF
@@ -345,3 +345,4 @@ LFID,1000,#FFFFFF
 molupsite,1000,#FFFFFF
 Bili_CremePuff,1000,#FFFFFF
 Lin Yuhsia,1000,#FFFFFF
+茄子owo,1000,#FFFFFF
