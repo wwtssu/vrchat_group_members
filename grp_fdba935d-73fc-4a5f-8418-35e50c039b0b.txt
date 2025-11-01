@@ -281,7 +281,6 @@ Aibbts,1000,#FFFFFF
 Eternal coffin,1000,#FFFFFF
 ~KY39~,1000,#FFFFFF
 -雨过天晴-,1000,#FFFFFF
-うみ_umi,1000,#FFFFFF
 leave one hand,2,#FFFFFF
 啊啊斯斯顿顿顿,1000,#FFFFFF
 风吹红叶散 ab94,1000,#FFFFFF
