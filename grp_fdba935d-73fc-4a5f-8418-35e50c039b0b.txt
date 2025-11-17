@@ -90,7 +90,7 @@ Equinox_lycoris,1000,#FFFFFF
 MaruRuqi,1000,#FFFFFF
 风吹红叶散 ab94,1000,#FFFFFF
 lin榆,1000,#FFFFFF
-空白kuuhaku,1000,#FFFFFF
+空白啦空白啊,1000,#FFFFFF
 ライデンRaiDen,1000,#FFFFFF
 莫轩boredL,1000,#FFFFFF
 罗夏1573,1000,#FFFFFF
@@ -377,3 +377,4 @@ kiki语,1000,#FFFFFF
 雜魚布抹井,1000,#FFFFFF
 超级无敌鱼仔仔,1000,#FFFFFF
 虾饺酱酱,1000,#FFFFFF
+yukiokuru,1000,#FFFFFF
