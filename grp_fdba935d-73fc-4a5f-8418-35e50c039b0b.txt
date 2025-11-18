@@ -33,7 +33,7 @@ Plsei,1000,#FFFFFF
 玉置恵里奈,1000,#FFFFFF
 さくまん,1000,#FFFFFF
 春日野sora,1000,#FFFFFF
-YUM_啫喱煲煲,1000,#FFFFFF
+YUM_啫喱煲煲,2,#FFFFFF
 化学家尤里,1000,#FFFFFF
 suitgive,2,#FFFFFF
 Rym昀歌,1000,#FFFFFF
@@ -383,3 +383,4 @@ yukiokuru,1000,#FFFFFF
 禾迷Sir,1000,#FFFFFF
 yezhuovO,1000,#FFFFFF
 绫郁鹊ll,1000,#FFFFFF
+沐熙「Muxi_Logic」,1000,#FFFFFF
