@@ -222,7 +222,7 @@ XUEincn,1000,#FFFFFF
 Yoki_En,1000,#FFFFFF
 __DD__,1000,#FFFFFF
 九成真的不是变态,1000,#FFFFFF
-垃姬-iffy cf91,1000,#FFFFFF
+垃姬-iffy,1000,#FFFFFF
 call me alone,1000,#FFFFFF
 慕星喵喵,1000,#FFFFFF
 夜一だよ,1000,#FFFFFF
@@ -407,6 +407,7 @@ HuHao,1000,#FFFFFF
 屿寻ovo,1000,#FFFFFF
 SouRite,1000,#FFFFFF
 小辞睡不醒,1000,#FFFFFF
+amiyawakuwaku,1000,#FFFFFF
 竹九OwO,1000,#FFFFFF
 Equinox_lycoris,1000,#FFFFFF
 Ramona6677,2,#D0F1E2
@@ -622,13 +623,13 @@ North goose,1000,#FFFFFF
 薇薇的奈,1000,#FFFFFF
 suomi索米,1000,#FFFFFF
 doge114514 4296,1000,#FFFFFF
-BG5CCW,1000,#FFFFFF
+ʚ贴贴重度依赖ɞ,1000,#FFFFFF
 pzhxMgii,1000,#FFFFFF
 o汤圆o,1000,#FFFFFF
 cookie mio,1000,#FFFFFF
 青井澪0,1000,#FFFFFF
 小满咪~,1000,#FFFFFF
-自由鸟P,1000,#FFFFFF
+碎碎年年,1000,#FFFFFF
 千島Island,1000,#FFFFFF
 Aki_X miro,1000,#FFFFFF
 常陸茉子 6bc3,1000,#FFFFFF
