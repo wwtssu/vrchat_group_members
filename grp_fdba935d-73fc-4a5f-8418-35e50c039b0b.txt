@@ -280,7 +280,6 @@ Killa林,1000,#FFFFFF
 『橘福呦』,1000,#FFFFFF
 니하오응우엥,1000,#FFFFFF
 时音jion,1000,#FFFFFF
-昨日晴空,1000,#FFFFFF
 雜魚布抹井,1000,#FFFFFF
 梅艾修_shiou,1000,#FFFFFF
 ほしのな,1000,#FFFFFF
