@@ -332,6 +332,7 @@ Rosaliа,1000,#FFFFFF
 一颗又大又甜的苹果,1000,#FFFFFF
 桃MO幻像,1000,#FFFFFF
 きつねこ-Kituneko,1000,#FFFFFF
+格赫羅斯,1000,#FFFFFF
 茜空东云,1000,#FFFFFF
 L e0e3,1000,#FFFFFF
 hans cat,1000,#FFFFFF
