@@ -337,6 +337,7 @@ Rosaliа,1000,#FFFFFF
 L e0e3,1000,#FFFFFF
 hans cat,1000,#FFFFFF
 无氩（アルゴン）,1000,#FFFFFF
+Bacchus 姜辋,1000,#FFFFFF
 我是一只大号萌新,1000,#FFFFFF
 Adao_0,1000,#FFFFFF
 星糖眠丶,1000,#FFFFFF
