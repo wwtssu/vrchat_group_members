@@ -481,6 +481,7 @@ dooogate,1000,#FFFFFF
 阿司sama,1000,#FFFFFF
 绫月-墨棠,1000,#FFFFFF
 Linhan-Ambilius,1000,#FFFFFF
+DU_阿信,1000,#FFFFFF
 莜ling,1000,#FFFFFF
 Kurumi 9b03,1000,#FFFFFF
 伥鬼乆乆乆,1000,#FFFFFF
