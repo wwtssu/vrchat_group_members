@@ -298,7 +298,6 @@ aa祈愿,1000,#FFFFFF
 木木MuMu,1000,#FFFFFF
 裹着晴天酸奶泡油条,1000,#FFFFFF
 IssacIssac,1000,#FFFFFF
-铁锅炖三金,1000,#FFFFFF
 Ruruka Moria,1000,#FFFFFF
 小夜kite,1000,#FFFFFF
 -玄鱼-,1000,#FFFFFF
