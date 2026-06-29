@@ -14,6 +14,7 @@ KyoGyoji,1000,#FFFFFF
 耳畔轻抚的是风,1000,#FFFFFF
 太抽象辣！！！,1000,#FFFFFF
 苏玖mr,1000,#FFFFFF
+赫尔辛基的北风,1000,#FFFFFF
 愿心不变,1000,#FFFFFF
 its_me_elly,1000,#FFFFFF
 cbyrllx,1000,#FFFFFF
@@ -79,7 +80,6 @@ bellumo,1000,#FFFFFF
 ʚ玛奇玛ɞ,1000,#FFFFFF
 Stupid Fish_,1000,#FFFFFF
 若能化成星座,1000,#FFFFFF
-涩涩蛇 abbb,1000,#FFFFFF
 いっしき ととまる,2,#FFFFFF
 THY-hu meizi,1000,#FFFFFF
 fangkuai4067,1000,#FFFFFF
@@ -87,6 +87,7 @@ fangkuai4067,1000,#FFFFFF
 WAiwei,1000,#FFFFFF
 窝窝头w,1000,#FFFFFF
 懒羊羊大王 1b6c,1000,#FFFFFF
+晴栀狐きつね,1000,#FFFFFF
 moontow,1000,#FFFFFF
 一份椰汁双份西米,1000,#FFFFFF
 机械教主,1000,#FFFFFF
@@ -599,7 +600,7 @@ Foxcellent,1000,#FFFFFF
 louws_,1000,#FFFFFF
 文喵StevenDMeow,1000,#FFFFFF
 蕾米11,1000,#FFFFFF
-Krilikov,1000,#FFFFFF
+Raco_Ovo,1000,#FFFFFF
 古德猫柠,1000,#FFFFFF
 夜璃cc,1000,#FFFFFF
 钰镜滴花,1000,#FFFFFF
