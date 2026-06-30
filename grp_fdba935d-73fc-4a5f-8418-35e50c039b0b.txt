@@ -57,6 +57,7 @@ Lazy-Bone,1000,#FFFFFF
 AT龙王龙王DK-HW,1000,#FFFFFF
 海丁星Dingdcoin,1000,#FFFFFF
 Alice翔,1000,#FFFFFF
+-秋音-,1000,#FFFFFF
 -Luminix-,1000,#FFFFFF
 落花不思秋,1000,#FFFFFF
 xiumubi,1000,#FFFFFF
