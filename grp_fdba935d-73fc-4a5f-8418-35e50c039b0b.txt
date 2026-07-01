@@ -561,6 +561,7 @@ Xiao晓亘Gen,1000,#FFFFFF
 七月泠琪,1000,#FFFFFF
 Doracat 6ffb,1000,#FFFFFF
 MapleSugar-SaMa,1000,#FFFFFF
+移花然雪,1000,#FFFFFF
 时之逆风,1000,#FFFFFF
 雪影に桜の烬,1000,#FFFFFF
 夜夜（Orion）,1000,#FFFFFF
