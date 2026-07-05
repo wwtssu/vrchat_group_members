@@ -196,7 +196,6 @@ Linzcin,1000,#FFFFFF
 ·Seko·,1000,#FFFFFF
 小鳥遊曐野,2,#FFFFFF
 baby_Amy 1f35,1000,#FFFFFF
-Narumi Toa,1000,#FFFFFF
 kohinata miku,1000,#FFFFFF
 z1478965,1000,#FFFFFF
 梦烨Miyu,1000,#FFFFFF
