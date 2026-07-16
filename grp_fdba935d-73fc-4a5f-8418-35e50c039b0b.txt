@@ -175,6 +175,7 @@ Gundam idol,1000,#FFFFFF
 NNewmore,1000,#FFFFFF
 虾饺酱酱,1000,#FFFFFF
 莫轩boredL,1000,#FFFFFF
+赛博吟游诗人哈基逊,1000,#FFFFFF
 Nekoːɜ,1000,#FFFFFF
 春日野sora,1000,#FFFFFF
 橘橘橘鼠,1000,#FFFFFF
