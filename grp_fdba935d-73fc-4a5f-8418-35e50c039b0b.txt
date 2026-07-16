@@ -553,7 +553,7 @@ cloudfl4re,1000,#FFFFFF
 飞鸟与鱼,1000,#FFFFFF
 rio hanako91,1000,#FFFFFF
 梨月ovo,1000,#FFFFFF
-Buisson53,1000,#FFFFFF
+碧松Buisson53,1000,#FFFFFF
 ロスRosu,1000,#FFFFFF
 dream_sound007,1000,#FFFFFF
 Sinister Gambit,1000,#FFFFFF
@@ -784,6 +784,7 @@ like apple pie,1000,#FFFFFF
 一般通过雪风酱,1000,#FFFFFF
 Marzz Elowen,1000,#FFFFFF
 东里书文,1000,#FFFFFF
+EKsama,1000,#FFFFFF
 小漁酱ovo,1000,#FFFFFF
 欲语YU,1000,#FFFFFF
 沐鱼可爱喵,1000,#FFFFFF
