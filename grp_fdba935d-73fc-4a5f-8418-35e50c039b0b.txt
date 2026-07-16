@@ -26,6 +26,7 @@ PremiumNoire,1000,#FFFFFF
 Ericaღ,1000,#FFFFFF
 鬼酱Ghost Sauce,1000,#FFFFFF
 Kanaminlans,1000,#FFFFFF
+Teddy114,1000,#FFFFFF
 sxmじ,1000,#FFFFFF
 竹ava,1000,#FFFFFF
 Noru_のる,1000,#FFFFFF
@@ -656,7 +657,6 @@ cookie mio,1000,#FFFFFF
 碎碎年年,1000,#FFFFFF
 千島Island,1000,#FFFFFF
 Aki_X miro,1000,#FFFFFF
-常陸茉子 6bc3,1000,#FFFFFF
 Bili_CremePuff,1000,#FFFFFF
 Aibbts,1000,#FFFFFF
 朦龙さん,1000,#FFFFFF
@@ -671,6 +671,7 @@ sumomo5201314,1000,#FFFFFF
 hankoffer,1000,#FFFFFF
 拾玖XIX,1000,#FFFFFF
 -雨过天晴-,1000,#FFFFFF
+不会画画的画手,1000,#FFFFFF
 纯情巨帅大蟑螂,1000,#FFFFFF
 leave one hand,2,#FFFFFF
 LOONG1,1000,#FFFFFF
