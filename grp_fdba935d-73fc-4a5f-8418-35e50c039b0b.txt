@@ -122,7 +122,7 @@ FOX a45e,1000,#FFFFFF
 McDonald_Trump,1000,#FFFFFF
 小信浓号,1000,#FFFFFF
 sui_link,1000,#FFFFFF
-天彗3555,1000,#FFFFFF
+天彗sama,1000,#FFFFFF
 好人一位,1000,#FFFFFF
 小花系超废超萌妹妹,1000,#FFFFFF
 YUM_啫喱煲煲,2,#FFFFFF
@@ -484,7 +484,7 @@ HanaKiTsuNe,1000,#FFFFFF
 ˢᴴᵞᵛᴬᴺᴬ,1000,#FFFFFF
 尼禄爱丽丝,1000,#FFFFFF
 可堇单推人,1000,#FFFFFF
-时之梦00,1000,#FFFFFF
+时之梦-dream,1000,#FFFFFF
 我嘞个雷 5150,1000,#FFFFFF
 Art3misFowl,1000,#FFFFFF
 i枫煜i,1000,#FFFFFF
@@ -698,6 +698,7 @@ Yukitoke,1000,#FFFFFF
 陶眠02b4,1000,#FFFFFF
 猎萌者Moehu,1000,#FFFFFF
 魚を触るのが好き,1000,#FFFFFF
+星空-Vers_East,1000,#FFFFFF
 Yucri淮淮,2,#FFFFFF
 鑫姐咋了？,1000,#FFFFFF
 凌驰QJ,1000,#FFFFFF
