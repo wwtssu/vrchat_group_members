@@ -149,6 +149,7 @@ _Ilya_,1000,#FFFFFF
 J1awen,1000,#FFFFFF
 Lᵒᵛᵉ芽衣,1000,#FFFFFF
 prophetlove,1000,#FFFFFF
+七月imi,1000,#FFFFFF
 柴郡柴郡柴ovo,1000,#FFFFFF
 Cloudkawai,1000,#FFFFFF
 下潜001,1000,#FFFFFF
@@ -584,7 +585,7 @@ Nihility puppet,1000,#FFFFFF
 若叶睦子米Mutsumi,1000,#FFFFFF
 鹿鹿迷路路,1000,#FFFFFF
 露露莉特,1000,#FFFFFF
-Cryovex,1000,#FFFFFF
+Helionix,1000,#FFFFFF
 qiqilove520,1000,#FFFFFF
 炭烧酸奶,1000,#FFFFFF
 Novem__,1000,#FFFFFF
