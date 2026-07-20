@@ -122,7 +122,6 @@ McDonald_Trump,1000,#FFFFFF
 小信浓号,1000,#FFFFFF
 sui_link,1000,#FFFFFF
 天彗sama,1000,#FFFFFF
-好人一位,1000,#FFFFFF
 小花系超废超萌妹妹,1000,#FFFFFF
 YUM_啫喱煲煲,2,#FFFFFF
 shiinayu,1000,#FFFFFF
@@ -447,6 +446,7 @@ CATmaow,1000,#FFFFFF
 violet1231,1000,#FFFFFF
 Sunset·,1000,#FFFFFF
 YZzidian,1000,#FFFFFF
+雷霆大雪绒,1000,#FFFFFF
 Rym昀歌,1000,#FFFFFF
 Yuri_OvO0603,1000,#FFFFFF
 时司为仪,1000,#FFFFFF
