@@ -116,7 +116,6 @@ canpian,2,#FFFFFF
 kiki语,1000,#FFFFFF
 孤城不倒,1000,#FFFFFF
 AAA若叶睦,1000,#FFFFFF
-FOX a45e,1000,#FFFFFF
 McDonald_Trump,1000,#FFFFFF
 小信浓号,1000,#FFFFFF
 sui_link,1000,#FFFFFF
@@ -160,6 +159,7 @@ XxnagarotoxX,1000,#FFFFFF
 雾弥Mi,1000,#FFFFFF
 shuunaflo,1000,#FFFFFF
 羽毛筆（La Pluma）,1000,#FFFFFF
+白粥_OVO,1000,#FFFFFF
 小桃涛宝宝,1000,#FFFFFF
 yezhuovO,1000,#FFFFFF
 永雏莫莉,1000,#FFFFFF
@@ -753,6 +753,7 @@ Taqi_San 塔奇散,1000,#FFFFFF
 rosewood0301,1000,#FFFFFF
 小叶 118a,1000,#FFFFFF
 Sulfur_qwq,1000,#FFFFFF
+Island980,1000,#FFFFFF
 夜兔YORU,1000,#FFFFFF
 逍遥狼奈,1000,#FFFFFF
 -Neflibata-,1000,#FFFFFF
