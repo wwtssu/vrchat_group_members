@@ -26,6 +26,7 @@ PremiumNoire,1000,#FFFFFF
 Ericaღ,1000,#FFFFFF
 鬼酱Ghost Sauce,1000,#FFFFFF
 Kanaminlans,1000,#FFFFFF
+雨祈Yuki,1000,#FFFFFF
 Teddy114,1000,#FFFFFF
 sxmじ,1000,#FFFFFF
 竹ava,1000,#FFFFFF
