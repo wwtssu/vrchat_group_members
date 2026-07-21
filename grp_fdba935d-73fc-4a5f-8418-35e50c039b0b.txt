@@ -566,7 +566,7 @@ JatenH_hz,1000,#FFFFFF
 Asheng,1000,#FFFFFF
 「Kyotaro」,1000,#FFFFFF
 银河调查员,1000,#FFFFFF
-猫型哨ねこ,1000,#FFFFFF
+黧赋Lieve,1000,#FFFFFF
 Xiao晓亘Gen,1000,#FFFFFF
 麦子Wheat,1000,#FFFFFF
 サクラガワリン,1000,#FFFFFF
@@ -698,6 +698,7 @@ Yukitoke,1000,#FFFFFF
 魚を触るのが好き,1000,#FFFFFF
 星空-Vers_East,1000,#FFFFFF
 Yucri淮淮,2,#FFFFFF
+૮ Mutsumiა,1000,#FFFFFF
 鑫姐咋了？,1000,#FFFFFF
 凌驰QJ,1000,#FFFFFF
 paofan25,1000,#FFFFFF
