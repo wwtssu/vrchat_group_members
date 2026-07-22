@@ -730,6 +730,7 @@ winnie0228,1000,#FFFFFF
 星中有白,1000,#FFFFFF
 死神「莉卡」,1000,#FFFFFF
 小樱（飞焰樱）,1000,#FFFFFF
+雪z--,1000,#FFFFFF
 冰镇西瓜猹,1000,#FFFFFF
 星空下的鱼仔,1000,#FFFFFF
 小雾同学 9eb5,1000,#FFFFFF
