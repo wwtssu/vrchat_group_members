@@ -365,6 +365,7 @@ Mereor_澪,1000,#FFFFFF
 Tomori Sakuya,1000,#FFFFFF
 兔兔会飞哦,1000,#FFFFFF
 不困但困了,1000,#FFFFFF
+远坂优花,1000,#FFFFFF
 煜煜昭昭,1000,#FFFFFF
 LFeng0207,1000,#FFFFFF
 RAINBOW不爱白给,1000,#FFFFFF
@@ -699,7 +700,7 @@ Yukitoke,1000,#FFFFFF
 陶眠02b4,1000,#FFFFFF
 猎萌者Moehu,1000,#FFFFFF
 魚を触るのが好き,1000,#FFFFFF
-星空-Vers_East,1000,#FFFFFF
+Vers_East,1000,#FFFFFF
 Yucri淮淮,2,#FFFFFF
 ૮ Mutsumiა,1000,#FFFFFF
 鑫姐咋了？,1000,#FFFFFF
