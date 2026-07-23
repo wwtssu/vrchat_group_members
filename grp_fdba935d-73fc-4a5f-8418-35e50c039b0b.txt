@@ -464,6 +464,7 @@ Yuri_OvO0603,1000,#FFFFFF
 Keke Yamakaze,1000,#FFFFFF
 - 雲雀 -,1000,#FFFFFF
 鹿包饭1224,1000,#FFFFFF
+夏夏--,1000,#FFFFFF
 绫郁鹊ll,1000,#FFFFFF
 tae_c,1000,#FFFFFF
 むおんのほうかい,1000,#FFFFFF
@@ -565,7 +566,7 @@ dream_sound007,1000,#FFFFFF
 Sinister Gambit,1000,#FFFFFF
 喵哉喵哉,1000,#FFFFFF
 是麻衣学姐啊,1000,#FFFFFF
-wzmxhh,1000,#FFFFFF
+爱吃团子的雷电将军,1000,#FFFFFF
 耐糖白兔,1000,#FFFFFF
 JatenH_hz,1000,#FFFFFF
 Asheng,1000,#FFFFFF
@@ -588,7 +589,7 @@ XieJue,1000,#FFFFFF
 Nihility puppet,1000,#FFFFFF
 若叶睦子米Mutsumi,1000,#FFFFFF
 鹿鹿迷路路,1000,#FFFFFF
-露露莉特,1000,#FFFFFF
+NEKO_Kaguya,1000,#FFFFFF
 Helionix,1000,#FFFFFF
 qiqilove520,1000,#FFFFFF
 炭烧酸奶,1000,#FFFFFF
@@ -665,6 +666,7 @@ cookie mio,1000,#FFFFFF
 碎碎年年,1000,#FFFFFF
 千島Island,1000,#FFFFFF
 Aki_X miro,1000,#FFFFFF
+黑岩射手bef7,1000,#FFFFFF
 Bili_CremePuff,1000,#FFFFFF
 Aibbts,1000,#FFFFFF
 朦龙さん,1000,#FFFFFF
