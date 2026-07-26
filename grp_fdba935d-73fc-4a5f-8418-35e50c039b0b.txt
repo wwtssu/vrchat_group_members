@@ -2,6 +2,7 @@ Tsk天识,1,#FF0000
 椿的日常,1000,#FFFFFF
 紫苑14373,1000,#FFFFFF
 魔王特蕾西娅,1000,#FFFFFF
+Su江新,1000,#FFFFFF
 fe_frog,1000,#FFFFFF
 秦时明月汉时关,1000,#FFFFFF
 吉秀Yoshihide,1000,#FFFFFF
