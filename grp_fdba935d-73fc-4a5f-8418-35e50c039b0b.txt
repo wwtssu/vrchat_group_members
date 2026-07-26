@@ -109,6 +109,7 @@ Yuki_ღ,1000,#FFFFFF
 波菜 1798,1000,#FFFFFF
 MinosKhay,1000,#FFFFFF
 玛奇朵mqd,1000,#FFFFFF
+Subaru_Awa_,1000,#FFFFFF
 foolqyz,1000,#FFFFFF
 大清第一巴图鲁,1000,#FFFFFF
 阿布 布里特,1000,#FFFFFF
