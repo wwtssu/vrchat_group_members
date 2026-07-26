@@ -330,6 +330,7 @@ RRRex_lx,1000,#FFFFFF
 gongqiannian,1000,#FFFFFF
 唯爱杰JIE,1000,#FFFFFF
 不爱吃南瓜,1000,#FFFFFF
+wmcx,1000,#FFFFFF
 吞噬石碑,1000,#FFFFFF
 xingxing9,1000,#FFFFFF
 千年第一游戏王小桃,1000,#FFFFFF
