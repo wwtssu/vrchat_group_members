@@ -18,7 +18,6 @@ KyoGyoji,1000,#FFFFFF
 苏玖mr,1000,#FFFFFF
 涩涩蛇Kurwa,1000,#FFFFFF
 愿心不变,1000,#FFFFFF
-its_me_elly,1000,#FFFFFF
 忆挽青笙尽,1000,#FFFFFF
 Nina 2 7,1000,#FFFFFF
 梦娜酱板鸭,1000,#FFFFFF
